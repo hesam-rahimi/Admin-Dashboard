@@ -1,0 +1,18 @@
+.features {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.icon {
+  font-size: 26px!important;
+  margin-left: 5px;
+}

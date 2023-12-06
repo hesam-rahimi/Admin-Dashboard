@@ -1,0 +1,34 @@
+.featureItem{
+    flex: 1;
+    margin: 0 20px;
+    padding: 30px;
+    border-radius:15px;
+    box-shadow: 0 0 15px -10px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+.featureTitle{
+   font-size: 20px;
+}
+
+.featureContainer {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.featureMoney{
+ font-size: 30px;
+ margin-right: 20px;
+ font-weight: bold;
+} 
+
+.featureRate{
+    display: flex;
+    align-items: center;
+}
+
+.featureSub{
+    font-size: 15px;
+    color: gray;
+}
